@@ -8,8 +8,9 @@ class SpringbootTestgitApplicationTests {
 
     @Test
     void contextLoads() {
-        int a=8
-        int b=10
+        int a=8;
+        int b=10;
+        System.out.println("测试用的");
     }
 
 }
