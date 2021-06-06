@@ -8,6 +8,8 @@ class SpringbootTestgitApplicationTests {
 
     @Test
     void contextLoads() {
+        int a=8
+        int b=10
     }
 
 }
